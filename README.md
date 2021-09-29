@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhakadneeraj786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhakadneeraj786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neeraj-dhakad-6259391a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neeraj-dhakad-6259391a9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://https://www.linkedin.com/in/neerajdhakad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neeraj-dhakad-6259391a9/" height="30" width="40" /></a>
 <a href="https://instagram.com/_neeraj.dhakad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_neeraj.dhakad_" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/neerajdhakad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/neerajdhakad1" height="30" width="40" /></a>
 </p>
