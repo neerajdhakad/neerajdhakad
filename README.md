@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj Dhakad</h1>
 <h3 align="center">I'm a UI Designer and Front end web developer.</h3>
 
-- 🔭 I’m currently working on **GWOC**
-
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **web development**
