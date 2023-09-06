@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Dhakad</h1>
-<h3 align="center">I'm a UI Designer and Front end web developer.</h3>
+<h3 align="center">I'm a UI Designer and Frontend web developer.</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **web development**
 
